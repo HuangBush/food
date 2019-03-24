@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+
+
+
+#menu{
+		width: 100%;
+		height: 100px;
+		 color: rgba(255,255,255,.7);
+		
+	}
+	#menu-img{
+		width: 120px;
+		height: 100px;
+		text-align: center;
+		float:left;
+		display: inline-block;
+	}
+	#menu-text{
+		width: 100px;
+		height: 100px;
+		display: inline-block;
+		float: left;
+	}
+	#menu-num{
+		width: 40px;
+		height: 100px;
+		float: left;
+	}
+	#menu-text>ul{
+		height:80px;
+		margin-top: 15px;
+	}
+	#menu-text>ul li{
+		margin-top: 10px;
+	}
+	#name{
+		font-size: 15px;
+		font-weight: 800;
+	}
+	#menu-num>ul{
+		height:80px;
+		margin-top: 15px;
+	}
+	#menu-num>ul li{
+		margin-top: 10px;
+	}
